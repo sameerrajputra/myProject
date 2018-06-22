@@ -1,3 +1,5 @@
+////			BUDGET MANAGEMENT APP
+
 ///////////			Budget managing app
 //---------BUDGET CONTROLLER--------
 var budgetController = (function(){
